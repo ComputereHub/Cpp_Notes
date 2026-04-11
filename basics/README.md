@@ -22,6 +22,8 @@ Sum = 8
 ---
 
 ### 3. Even or Odd
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/basics/even-odd.cpp)
+
 Input:
 Enter a number: 4
 
@@ -31,6 +33,8 @@ Even Number
 ---
 
 ### 4. Largest of Three Numbers
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/basics/largest-of-three.cpp)
+
 Input:
 Enter three numbers: 10 20 15
 
@@ -40,6 +44,8 @@ Largest = 20
 ---
 
 ### 5. Swap Two Numbers
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/basics/swap-numbers.cpp)
+
 Input:
 Before Swap: a = 5, b = 10
 
