@@ -1,13 +1,85 @@
 # C++ Programs
 
-यह repository C++ के basic से लेकर intermediate programs को cover करती है। यह beginners के लिए बहुत useful है जो programming सीखना शुरू कर रहे हैं।
+यह repository C++ के basic से लेकर advanced level तक के important programs को cover करती है। यह beginners और practice करने वालों के लिए बहुत useful है।
 
-## 📂 Topics Covered
-- Basic Programs  
-- Loop Programs  
-- Number Programs  
-- Pattern Programs  
+---
 
-## 🔗 Useful Links
+## 🟢 Basic Programs
+- Hello World  
+- Add Two Numbers  
+- Swap Two Numbers  
+- Even or Odd Number  
+- Largest of Three Numbers  
+
+---
+
+## 🔁 Looping Programs
+- Print 1 to N  
+- Sum of N Numbers  
+- Factorial Program  
+- Fibonacci Series  
+- Reverse a Number  
+- Palindrome Number  
+- Prime Number  
+- Multiplication Table  
+
+---
+
+## 🔢 Pattern Programs
+- Star Pattern (Triangle)  
+- Pyramid Pattern  
+- Number Pattern  
+- Floyd’s Triangle  
+- Pascal Triangle  
+
+---
+
+## 📊 Array Programs
+- Find Largest Element  
+- Find Smallest Element  
+- Sum of Array  
+- Reverse Array  
+- Sort Array  
+- Linear Search  
+- Merge Arrays  
+- Remove Duplicates  
+
+---
+
+## 🔤 String Programs
+- Reverse String  
+- Palindrome String  
+- Count Vowels  
+- String Length  
+- Compare Strings  
+
+---
+
+## 🧠 Functions & Recursion
+- Factorial using Function  
+- Prime using Function  
+- Fibonacci using Function  
+- Factorial using Recursion  
+- Sum using Recursion  
+
+---
+
+## 🧱 OOP Programs
+- Class and Object  
+- Constructor Example  
+- Inheritance  
+- Polymorphism  
+- Encapsulation  
+
+---
+
+## 📂 File Handling
+- Create File  
+- Write File  
+- Read File  
+- Append File  
+
+---
+
+## 🔗 Useful Link
 🔗 [पूरा ब्लॉग पढ़ें](https://www.computerehub.com/2024/11/cpp-notes-hindi.html)
-
