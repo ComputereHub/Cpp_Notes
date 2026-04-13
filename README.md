@@ -25,15 +25,6 @@
 
 ---
 
-## 🔢 Pattern Programs
-- Star Pattern (Triangle)  
-- Pyramid Pattern  
-- Number Pattern  
-- Floyd’s Triangle  
-- Pascal Triangle  
-
----
-
 ## 📊 Array Programs
 - Find Largest Element  
 - Find Smallest Element  
@@ -42,7 +33,16 @@
 - Sort Array  
 - Linear Search  
 - Merge Arrays  
-- Remove Duplicates  
+- Remove Duplicates
+
+  ---
+
+## 🔢 Pattern Programs
+- Star Pattern (Triangle)  
+- Pyramid Pattern  
+- Number Pattern  
+- Floyd’s Triangle  
+- Pascal Triangle  
 
 ---
 
