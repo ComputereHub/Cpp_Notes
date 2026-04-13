@@ -2,7 +2,9 @@
 
 ## Programs List with Output
 
-### 1. Largest Element in Array
+---
+
+### 1. Find Largest Element
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/arrays/largest.cpp)
 
 Input:
@@ -13,7 +15,7 @@ Largest = 20
 
 ---
 
-### 2. Smallest Element in Array
+### 2. Find Smallest Element
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/arrays/smallest.cpp)
 
 Input:
@@ -46,7 +48,18 @@ Reverse: 5 4 3 2 1
 
 ---
 
-### 5. Linear Search
+### 5. Sort Array
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/arrays/sort.cpp)
+
+Input:
+Enter array: 5 2 8 1 3
+
+Output:
+Sorted Array: 1 2 3 5 8
+
+---
+
+### 6. Linear Search
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/arrays/linear-search.cpp)
 
 Input:
@@ -55,3 +68,28 @@ Search: 30
 
 Output:
 Element Found at position 3
+
+---
+
+### 7. Merge Arrays
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/arrays/merge.cpp)
+
+Input:
+Array 1: 1 2 3  
+Array 2: 4 5 6
+
+Output:
+Merged Array: 1 2 3 4 5 6
+
+---
+
+### 8. Remove Duplicates
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/arrays/remove-duplicates.cpp)
+
+Input:
+Array: 1 2 2 3 4 4 5
+
+Output:
+Array after removing duplicates: 1 2 3 4 5
+
+---
