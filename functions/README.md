@@ -4,8 +4,8 @@
 
 ---
 
-### 1. Factorial using Function
-👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/factorial.cpp)
+### 1. factorial-function.cpp
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/factorial-function.cpp)
 
 Input:
 5
@@ -15,8 +15,8 @@ Factorial = 120
 
 ---
 
-### 2. Prime using Function
-👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/prime.cpp)
+### 2. prime-function.cpp
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/prime-function.cpp)
 
 Input:
 7
@@ -26,8 +26,8 @@ Prime Number
 
 ---
 
-### 3. Fibonacci using Function
-👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/fibonacci.cpp)
+### 3. fibonacci-function.cpp
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/fibonacci-function.cpp)
 
 Input:
 7
@@ -37,22 +37,24 @@ Output:
 
 ---
 
-### 4. Factorial using Recursion
-👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/fact-recursion.cpp)
+### 4. factorial-recursion.cpp
+👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/factorial-recursion.cpp)
 
 Input:
 5
 
 Output:
-120
+Factorial = 120
 
 ---
 
-### 5. Sum using Recursion
+### 5. sum-recursion.cpp
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/functions/sum-recursion.cpp)
 
 Input:
 5
 
 Output:
-15
+Sum = 15
+
+---
