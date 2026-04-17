@@ -1,47 +1,62 @@
 # Loop Programs in C++
 
-## Programs List with Output
+## 📌 Introduction
+यह repository C++ के loop-based programs को समझने के लिए बनाई गई है। इसमें basic से advanced level तक programs दिए गए हैं ताकि आपकी logic building strong हो सके।
+
+---
+
+## 🧠 आप क्या सीखेंगे
+- Loops (for, while)
+- Number logic
+- Pattern thinking
+- Mathematical problem solving
+
+---
+
+## Programs List with Easy + Deep Explanation
+
+---
 
 ### 1. Print 1 to N
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/print-1-to-n.cpp)
 
-Input:
-Enter N: 5
+🧠 Explanation:
+1 से N तक numbers print करता है।
 
-Output:
-1 2 3 4 5
+Example:
+N = 5 → 1 2 3 4 5
 
 ---
 
 ### 2. Sum of N Numbers
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/sum-of-n.cpp)
 
-Input:
-Enter N: 5
+🧠 Explanation:
+1 से N तक सभी numbers का sum करता है।
 
-Output:
-Sum = 15
+Example:
+5 → 1+2+3+4+5 = 15
 
 ---
 
 ### 3. Factorial Program
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/factorial.cpp)
 
-Input:
-Enter number: 5
+🧠 Explanation:
+Number को नीचे तक multiply करता है।
 
-Output:
-Factorial = 120
+Example:
+5! = 120
 
 ---
 
 ### 4. Fibonacci Series
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/fibonacci.cpp)
 
-Input:
-Enter terms: 7
+🧠 Explanation:
+Next number = पिछले 2 numbers का sum
 
-Output:
+Example:
 0 1 1 2 3 5 8
 
 ---
@@ -49,177 +64,173 @@ Output:
 ### 5. Reverse a Number
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/reverse-number.cpp)
 
-Input:
-Enter number: 12345
+🧠 Explanation:
+Number को उल्टा करता है।
 
-Output:
-Reverse = 54321
+Example:
+12345 → 54321
 
 ---
 
 ### 6. Palindrome Number
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/palindrome.cpp)
 
-Input:
-Enter number: 121
+🧠 Explanation:
+Reverse करने पर same रहे तो palindrome।
 
-Output:
-Palindrome Number
+Example:
+121 → Yes
 
 ---
 
 ### 7. Prime Number
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/prime.cpp)
 
-Input:
-Enter number: 7
+🧠 Explanation:
+2 numbers से divisible नहीं होता (1 और खुद)
 
-Output:
-Prime Number
+Example:
+7 → Prime
 
 ---
 
 ### 8. Multiplication Table
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/table.cpp)
 
-Input:
-Enter number: 5
+🧠 Explanation:
+Number का table print करता है।
 
-Output:
-5 x 1 = 5
-5 x 2 = 10
-5 x 3 = 15
-5 x 4 = 20
-5 x 5 = 25
+Example:
+5 × 1 = 5 ... 5 × 10 = 50
 
 ---
 
-### 9. Sum of Even Numbers (1 to N)
+### 9. Sum of Even Numbers
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/sum-even.cpp)
 
-Input:
-Enter N: 10
+🧠 Explanation:
+Even numbers का sum करता है।
 
-Output:
-Sum of Even Numbers = 30
+Example:
+10 → 2+4+6+8+10 = 30
 
 ---
 
-### 10. Sum of Odd Numbers (1 to N)
+### 10. Sum of Odd Numbers
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/sum-odd.cpp)
 
-Input:
-Enter N: 10
+🧠 Explanation:
+Odd numbers का sum करता है।
 
-Output:
-Sum of Odd Numbers = 25
+Example:
+10 → 1+3+5+7+9 = 25
 
 ---
 
-### 11. Count Digits in a Number
+### 11. Count Digits
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/count-digits.cpp)
 
-Input:
-Enter number: 12345
+🧠 Explanation:
+Number में कितने digits हैं।
 
-Output:
-Total Digits = 5
+Example:
+12345 → 5
 
 ---
 
 ### 12. Sum of Digits
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/sum-digits.cpp)
 
-Input:
-Enter number: 123
+🧠 Explanation:
+Digits का sum करता है।
 
-Output:
-Sum = 6
+Example:
+123 → 6
 
 ---
 
 ### 13. Armstrong Number
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/armstrong.cpp)
 
-Input:
-Enter number: 153
+🧠 Explanation:
+Digits के cube का sum = number
 
-Output:
-Armstrong Number
+Example:
+153 = 1³+5³+3³ = 153 ✔
 
 ---
 
 ### 14. Perfect Number
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/perfect.cpp)
 
-Input:
-Enter number: 6
+🧠 Explanation:
+Proper divisors का sum = number
 
-Output:
-Perfect Number
+Example:
+6 = 1+2+3
 
 ---
 
 ### 15. Strong Number
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/strong.cpp)
 
-Input:
-Enter number: 145
+🧠 Explanation:
+Digits के factorial का sum = number
 
-Output:
-Strong Number
+Example:
+145 = 1!+4!+5!
 
 ---
 
 ### 16. Power of a Number
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/power.cpp)
 
-Input:
-Base = 2, Power = 4
+🧠 Explanation:
+a^b निकालता है।
 
-Output:
-16
+Example:
+2^4 = 16
 
 ---
 
-### 17. Print All Prime Numbers (1 to N)
+### 17. Print Prime Numbers (1 to N)
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/prime-1-to-n.cpp)
 
-Input:
-Enter N: 10
+🧠 Explanation:
+1 से N तक prime numbers print करता है।
 
-Output:
-2 3 5 7
+Example:
+10 → 2 3 5 7
 
 ---
 
 ### 18. GCD of Two Numbers
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/gcd.cpp)
 
-Input:
-Enter numbers: 12 18
+🧠 Explanation:
+दो numbers का greatest common divisor।
 
-Output:
-GCD = 6
+Example:
+12,18 → 6
 
 ---
 
 ### 19. LCM of Two Numbers
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/lcm.cpp)
 
-Input:
-Enter numbers: 12 18
+🧠 Explanation:
+दो numbers का smallest common multiple।
 
-Output:
-LCM = 36
+Example:
+12,18 → 36
 
 ---
 
-### 20. Check Strong Number (Using Loop)
+### 20. Strong Number (Loop Version)
 👉 [Code देखें](https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/loops/strong-number.cpp)
 
-Input:
-Enter number: 145
+🧠 Explanation:
+Check करता है number strong है या नहीं।
 
-Output:
-Strong Number
+Example:
+145 → Strong Number
