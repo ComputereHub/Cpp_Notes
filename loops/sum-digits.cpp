@@ -1,11 +1,16 @@
 #include <iostream>
 using namespace std;
+
 int main() {
-    int n=123,sum=0;
-    while(n>0){
-        sum+=n%10;
-        n/=10;
+    int num = 123;
+    int sum = 0;
+
+    while(num != 0) {
+        sum = sum + (num % 10);  // last digit add किया
+        num = num / 10;          // digit हटाया
     }
-    cout<<"Sum = "<<sum;
+
+    cout << "Sum = " << sum;
+
     return 0;
 }
