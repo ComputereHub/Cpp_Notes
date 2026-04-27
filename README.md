@@ -37,6 +37,18 @@
 - Palindrome Number  
 - Prime Number  
 - Multiplication Table  
+- Sum of Even Numbers  
+- Sum of Odd Numbers  
+- Count Digits in a Number  
+- Sum of Digits  
+- Armstrong Number  
+- Perfect Number  
+- Strong Number  
+- Power of a Number  
+- Print Prime Numbers (1 to N)  
+- GCD of Two Numbers  
+- LCM of Two Numbers  
+- Check Strong Number (Using Loop)  
 
 ---
 
