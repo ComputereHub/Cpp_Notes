@@ -10,6 +10,21 @@
 - Swap Two Numbers  
 - Even or Odd Number  
 - Largest of Three Numbers  
+- Positive or Negative Number  
+- Square and Cube  
+- Simple Interest  
+- Area of Circle  
+- Celsius to Fahrenheit  
+- Leap Year  
+- ASCII Value  
+- Sum of Digits  
+- Reverse Number  
+- Check Character Type  
+- Divisible by 5 and 11  
+- Maximum Between Two Numbers  
+- Power of a Number  
+- Armstrong Number  
+- Sum of First N Natural Numbers  
 
 ---
 
