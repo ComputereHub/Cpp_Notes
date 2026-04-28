@@ -56,11 +56,23 @@
 - Find Largest Element  
 - Find Smallest Element  
 - Sum of Array  
+- Average of Array  
 - Reverse Array  
-- Sort Array  
+- Count Even and Odd Elements  
 - Linear Search  
-- Merge Arrays  
-- Remove Duplicates
+- Sort Array  
+- Merge Two Arrays  
+- Remove Duplicates  
+- Find Second Largest Element  
+- Frequency of Elements  
+- Check Sorted Array  
+- Copy Array  
+- Binary Search  
+- Left Rotate Array  
+- Right Rotate Array  
+- Find Missing Number  
+- Pair Sum (Target Sum)  
+- Maximum Subarray Sum  
 
   ---
 
