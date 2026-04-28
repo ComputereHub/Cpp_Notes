@@ -2,13 +2,16 @@
 using namespace std;
 
 int main() {
-    int arr[5] = {1,2,3,4,5};
-    int sum = 0;
+    int arr[5] = {10,20,30,40,50};
+    int max=arr[0], second=arr[0];
 
-    for(int i=0;i<5;i++){
-        sum += arr[i];
+    for(int i=1;i<5;i++){
+        if(arr[i]>max){
+            second = max;
+            max = arr[i];
+        }
     }
 
-    cout << "Average = " << sum/5;
+    cout << "Second Largest = " << second;
     return 0;
 }
