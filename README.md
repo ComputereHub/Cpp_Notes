@@ -91,6 +91,21 @@
 - Count Vowels  
 - String Length  
 - Compare Strings  
+- Count Consonants  
+- Convert to Uppercase  
+- Convert to Lowercase  
+- Count Words  
+- Remove Spaces  
+- Count Characters  
+- Character Frequency  
+- Remove Duplicate Characters  
+- Check Anagram  
+- Concatenate Strings  
+- Find Substring  
+- Replace Character  
+- Remove Character  
+- First Non-Repeating Character  
+- Most Frequent Character  
 
 ---
 
