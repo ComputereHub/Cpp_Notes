@@ -109,12 +109,28 @@
 
 ---
 
-## 🧠 Functions & Recursion
-- Factorial using Function  
-- Prime using Function  
-- Fibonacci using Function  
-- Factorial using Recursion  
-- Sum using Recursion  
+## 🧠 Functions & Recursion Programs
+
+- factorial-function.cpp  
+- prime-function.cpp  
+- fibonacci-function.cpp  
+- factorial-recursion.cpp  
+- sum-recursion.cpp  
+- even-odd-function.cpp  
+- sum-function.cpp  
+- max-function.cpp  
+- power-function.cpp  
+- reverse-function.cpp  
+- palindrome-function.cpp  
+- gcd-function.cpp  
+- lcm-function.cpp  
+- armstrong-function.cpp  
+- sum-digits-function.cpp  
+- power-recursion.cpp  
+- fibonacci-recursion.cpp  
+- gcd-recursion.cpp  
+- binary-search-function.cpp  
+- tower-of-hanoi.cpp  
 
 ---
 
