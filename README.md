@@ -135,13 +135,57 @@
 ---
 
 ## 🧱 OOP Programs
-- Class and Object  
-- Constructor Example  
-- Inheritance  
-- Polymorphism  
-- Encapsulation  
 
----
+- Class and Object
+  - class-object
+  - this-pointer
+  - array-of-objects
+  - nested-class
+  - object-as-argument
+  - returning-object
+
+- Constructor Example
+  - constructor-example
+  - default-constructor
+  - parameterized-constructor
+  - copy-constructor
+  - dynamic-constructor
+  - destructor
+
+- Inheritance
+  - inheritance
+  - single-inheritance
+  - multilevel-inheritance
+  - hierarchical-inheritance
+  - multiple-inheritance
+  - hybrid-inheritance
+
+- Polymorphism
+  - polymorphism
+  - function-overloading
+  - operator-overloading
+  - virtual-function
+  - pure-virtual-function
+
+- Encapsulation
+  - encapsulation
+  - const-function
+  - inline-function
+  - static-member
+  - static-function
+  - friend-function
+  - friend-class
+  - abstraction
+  - abstract-class-example
+  - interface-style
+  - pointer-to-object
+  - aggregation
+  - file-handling-class
+  - bank-system
+  - student-management
+  - inventory-system
+  - mini-project-oop
+
 
 ## 📂 File Handling
 - Create File  
