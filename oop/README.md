@@ -30,16 +30,9 @@ Car = Data (color, speed) + Function (start, stop)
 ### 📚 Topics:
 
 * Class & Object
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/class-object.cpp
-
 * Constructor
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/constructor-example.cpp
-
 * Destructor
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/destructor.cpp
-
 * this pointer
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/this-pointer.cpp
 
 ---
 
@@ -49,7 +42,8 @@ Car = Data (color, speed) + Function (start, stop)
 
 👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/class-object.cpp
 
-👉 Concept: Class = blueprint, Object = real चीज
+🧠 Explanation:
+Class blueprint होता है और object उसका real instance होता है।
 
 ```cpp
 class Demo {
@@ -58,16 +52,14 @@ public:
 };
 ```
 
-➡️ यहाँ class बन रही है
-➡️ object बनाकर value use करते हैं
-
 ---
 
 ### ✔ constructor-example.cpp
 
 👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/constructor-example.cpp
 
-👉 Concept: Object बनते ही auto run
+🧠 Explanation:
+Object बनते ही constructor automatically call होता है।
 
 ```cpp
 Demo(int a){
@@ -75,21 +67,18 @@ Demo(int a){
 }
 ```
 
-➡️ जब object create होगा → constructor call होगा
-
 ---
 
 ### ✔ this-pointer.cpp
 
 👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/this-pointer.cpp
 
-👉 Concept: current object को refer
+🧠 Explanation:
+Current object को refer करता है।
 
 ```cpp
 this->x = x;
 ```
-
-➡️ confusion दूर करता है (same name variable)
 
 ---
 
@@ -97,7 +86,8 @@ this->x = x;
 
 👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/destructor.cpp
 
-👉 Concept: object खत्म → destructor call
+🧠 Explanation:
+Object खत्म होने पर automatically call होता है।
 
 ```cpp
 ~Demo(){
@@ -123,16 +113,9 @@ this->x = x;
 ### 📚 Topics:
 
 * Function Overloading
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/function-overloading.cpp
-
 * Operator Overloading
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/operator-overloading.cpp
-
 * Inheritance Types
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/single-inheritance.cpp
-
 * Friend Function
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/friend-function.cpp
 
 ---
 
@@ -203,16 +186,9 @@ friend void show(Demo d);
 ### 📚 Topics:
 
 * Static
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/static-member.cpp
-
 * Pointer to Object
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/pointer-to-object.cpp
-
 * Dynamic Constructor
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/dynamic-constructor.cpp
-
 * Object passing
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/object-as-argument.cpp
 
 ---
 
@@ -280,16 +256,9 @@ return d;
 ### 📚 Topics:
 
 * Virtual Function
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/virtual-function.cpp
-
 * Pure Virtual Function
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/pure-virtual-function.cpp
-
 * Abstract Class
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/abstract-class-example.cpp
-
 * Interface
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/interface-style.cpp
 
 ---
 
@@ -323,7 +292,7 @@ virtual void show() = 0;
 
 👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/abstraction.cpp
 
-👉 Implementation hide करना
+👉 Implementation छुपाना
 
 ---
 
@@ -340,19 +309,39 @@ virtual void show() = 0;
 ### 📚 Topics:
 
 * File Handling
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/file-handling-class.cpp
-
 * Mini Project
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/mini-project-oop.cpp
-
 * Bank System
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/bank-system.cpp
-
 * Student Management
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/student-management.cpp
-
 * Inventory System
-  👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/inventory-system.cpp
+
+---
+
+### 🔍 Examples
+
+### ✔ Bank System
+
+👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/bank-system.cpp
+
+🧠 Explanation:
+Deposit और withdraw logic implement करता है
+
+---
+
+### ✔ Student Management
+
+👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/student-management.cpp
+
+🧠 Explanation:
+Student data manage करता है
+
+---
+
+### ✔ Inventory System
+
+👉 https://github.com/ComputereHub/Cpp_Notes/blob/CPP-Programs/oop/inventory-system.cpp
+
+🧠 Explanation:
+Products को manage करता है
 
 ---
 
