@@ -244,6 +244,12 @@ Classic recursion problem है जिसमें disks को rules के ac
 - बड़ा disk छोटे पर नहीं जा सकता
 
 ---
+# Functions in C++ in Hindi
+
+इस section में C++ Function के सभी महत्वपूर्ण concepts और programs आसान हिंदी में दिए गए हैं। यहाँ आपको Function declaration, calling, return type और practical examples step-by-step सीखने को मिलेंगे।
+
+## 📖 पूरा Article पढ़ें
+👉 [Functions in C++ in Hindi — आसान भाषा में सीखें](https://www.computerehub.com/2024/05/function-in-cpp.html)
 
 ## 💯 Final Conclusion
 अगर आप ये 20 programs समझ लेते हो तो:
