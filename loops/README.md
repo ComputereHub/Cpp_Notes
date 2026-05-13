@@ -451,3 +451,10 @@ Check करता है number strong है या नहीं।
 
 Example:
 145 → Strong Number
+
+# Loops in C++ in Hindi
+
+इस section में C++ Loops के सभी महत्वपूर्ण concepts और programs आसान हिंदी में दिए गए हैं। यहाँ आपको `for`, `while` और `do-while` loops की working, syntax और practical examples step-by-step सीखने को मिलेंगे।
+
+## 📖 पूरा Article पढ़ें
+👉 [Loops in C++ in Hindi — आसान भाषा में सीखें](https://www.computerehub.com/2024/05/loops-in-cpp.html)
