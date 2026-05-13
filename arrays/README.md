@@ -244,6 +244,12 @@ Output:
 Maximum Sum = 6
 
 ---
+# Array Programs in C++ in Hindi
+
+इस section में C++ Array के सभी महत्वपूर्ण programs और concepts आसान हिंदी में दिए गए हैं। यहाँ आपको beginner से लेकर practice level तक के Array examples और logic समझने को मिलेंगे।
+
+## 📖 पूरा Article पढ़ें
+👉 [Array in C++ in Hindi — आसान भाषा में सीखें](https://www.computerehub.com/2024/05/array-in-cpp.html)
 
 ## 💯 Conclusion
 इस repository में दिए गए programs को practice करके आप arrays में strong हो सकते हैं और interview level तक पहुँच सकते हैं।
