@@ -295,6 +295,13 @@ Output:
 78.5
 
 ---
+## 📚 Learn C++ Step-by-Step
+
+🔹 [Input / Output Handling in C++](https://www.computerehub.com/2024/05/cpp-input-output.html)
+
+🔹 [Operators in C++ in Hindi](https://www.computerehub.com/2024/05/operators-in-cpp.html)
+
+🔹 [Conditions (If-Else) in C++](https://www.computerehub.com/2024/05/cpp-conditional-statement.html)
 
 ## 💯 Conclusion
 इस roadmap को follow करके beginner आसानी से basic programming concepts सीख सकता है।
