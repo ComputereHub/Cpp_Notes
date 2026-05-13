@@ -373,6 +373,44 @@ Products को manage करता है
 ✔ Real-world coding ready
 
 ---
+# OOPs Concepts in C++ in Hindi
+
+इस section में C++ के सभी महत्वपूर्ण Object Oriented Programming (OOPs) concepts आसान हिंदी में समझाए गए हैं। यहाँ आपको theory के साथ practical examples, syntax और programs भी मिलेंगे, जिससे OOPs concepts को step-by-step सीखना आसान होगा।
+
+## 🚀 What You Will Learn
+- Class and Object
+- Constructors
+- Inheritance
+- Polymorphism
+- Virtual Functions
+- Function Overloading
+- Passing Objects to Functions
+- Friend Function & Friend Class
+- Static Members
+- Real-life OOPs Examples
+
+## 📚 Learn OOPs in C++ Step-by-Step
+
+🔹 [Class and Object in C++](https://www.computerehub.com/2024/05/cpp-object-class.html)
+
+🔹 [Constructors in C++](https://www.computerehub.com/2024/08/constructors-in-cpp.html)
+
+🔹 [Inheritance in C++](https://www.computerehub.com/2024/08/inheritance-in-cpp.html)
+
+🔹 [Polymorphism in C++](https://www.computerehub.com/2024/08/polymorphism-in-cpp.html)
+
+🔹 [Virtual Function in C++](https://www.computerehub.com/2024/08/cpp-virtual-function.html)
+
+🔹 [Function Overloading in C++](https://www.computerehub.com/2024/07/cpp-function-overloading.html)
+
+🔹 [Passing Objects to Function in C++](https://www.computerehub.com/2024/06/cpp-passing-objects.html)
+
+🔹 [Friend Function in C++](https://www.computerehub.com/2024/07/cpp-friend-function%20%20.html)
+
+🔹 [Friend Class in C++](https://www.computerehub.com/2024/07/friend-class-incpp.html)
+
+🔹 [Static Members in C++](https://www.computerehub.com/2024/07/staticmembers-in-cpp.html)
+
 
 # ⭐ Golden Rule
 
